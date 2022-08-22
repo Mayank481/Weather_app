@@ -1,0 +1,14 @@
+{
+  "name": "weather_predection",
+  "version": "1.0.0",
+  "description": "\"Weather prediction App\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mayank Jaggi",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
